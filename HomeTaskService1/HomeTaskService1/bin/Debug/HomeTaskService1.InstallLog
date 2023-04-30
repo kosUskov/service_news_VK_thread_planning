@@ -1,0 +1,21 @@
+﻿Выполняется удаление сборки 'C:\Users\kosus\Desktop\HomeTaskService1\HomeTaskService1\bin\Debug\HomeTaskService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\kosus\Desktop\HomeTaskService1\HomeTaskService1\bin\Debug\HomeTaskService1.exe
+   logfile = C:\Users\kosus\Desktop\HomeTaskService1\HomeTaskService1\bin\Debug\HomeTaskService1.InstallLog
+Выполняется удаление источника EventLog MyServiceProcess1.
+Выполняется удаление службы MyServiceProcess1 из системы...
+Служба MyServiceProcess1 успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\kosus\Desktop\HomeTaskService1\HomeTaskService1\bin\Debug\HomeTaskService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\kosus\Desktop\HomeTaskService1\HomeTaskService1\bin\Debug\HomeTaskService1.exe
+   logfile = C:\Users\kosus\Desktop\HomeTaskService1\HomeTaskService1\bin\Debug\HomeTaskService1.InstallLog
+Устанавливается служба MyServiceProcess1...
+Служба MyServiceProcess1 успешно установлена.
+Создается исходный EventLog MyServiceProcess1 в журнале Application...
+Выполняется фиксация сборки 'C:\Users\kosus\Desktop\HomeTaskService1\HomeTaskService1\bin\Debug\HomeTaskService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\kosus\Desktop\HomeTaskService1\HomeTaskService1\bin\Debug\HomeTaskService1.exe
+   logfile = C:\Users\kosus\Desktop\HomeTaskService1\HomeTaskService1\bin\Debug\HomeTaskService1.InstallLog

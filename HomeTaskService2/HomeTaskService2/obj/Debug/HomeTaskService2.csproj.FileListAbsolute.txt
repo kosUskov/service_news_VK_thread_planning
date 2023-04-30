@@ -1,0 +1,13 @@
+C:\Users\kosus\Desktop\HomeTaskService2\HomeTaskService2\bin\Debug\HomeTaskService2.exe.config
+C:\Users\kosus\Desktop\HomeTaskService2\HomeTaskService2\bin\Debug\HomeTaskService2.exe
+C:\Users\kosus\Desktop\HomeTaskService2\HomeTaskService2\bin\Debug\HomeTaskService2.pdb
+C:\Users\kosus\Desktop\HomeTaskService2\HomeTaskService2\bin\Debug\System.Data.SQLite.dll
+C:\Users\kosus\Desktop\HomeTaskService2\HomeTaskService2\bin\Debug\System.Data.SQLite.xml
+C:\Users\kosus\Desktop\HomeTaskService2\HomeTaskService2\obj\Debug\HomeTaskService2.csproj.AssemblyReference.cache
+C:\Users\kosus\Desktop\HomeTaskService2\HomeTaskService2\obj\Debug\HomeTaskService2.csproj.SuggestedBindingRedirects.cache
+C:\Users\kosus\Desktop\HomeTaskService2\HomeTaskService2\obj\Debug\HomeTaskService2.ProjectInstaller.resources
+C:\Users\kosus\Desktop\HomeTaskService2\HomeTaskService2\obj\Debug\HomeTaskService2.csproj.GenerateResource.cache
+C:\Users\kosus\Desktop\HomeTaskService2\HomeTaskService2\obj\Debug\HomeTaskService2.csproj.CoreCompileInputs.cache
+C:\Users\kosus\Desktop\HomeTaskService2\HomeTaskService2\obj\Debug\HomeTaskService2.csproj.CopyComplete
+C:\Users\kosus\Desktop\HomeTaskService2\HomeTaskService2\obj\Debug\HomeTaskService2.exe
+C:\Users\kosus\Desktop\HomeTaskService2\HomeTaskService2\obj\Debug\HomeTaskService2.pdb

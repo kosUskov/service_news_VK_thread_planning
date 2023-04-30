@@ -1,0 +1,12 @@
+C:\Users\kosus\Desktop\HomeTaskService1\HomeTaskService1\obj\Debug\HomeTaskService1.csproj.AssemblyReference.cache
+C:\Users\kosus\Desktop\HomeTaskService1\HomeTaskService1\obj\Debug\HomeTaskService1.csproj.SuggestedBindingRedirects.cache
+C:\Users\kosus\Desktop\HomeTaskService1\HomeTaskService1\obj\Debug\HomeTaskService1.ProjectInstaller.resources
+C:\Users\kosus\Desktop\HomeTaskService1\HomeTaskService1\obj\Debug\HomeTaskService1.csproj.GenerateResource.cache
+C:\Users\kosus\Desktop\HomeTaskService1\HomeTaskService1\obj\Debug\HomeTaskService1.csproj.CoreCompileInputs.cache
+C:\Users\kosus\Desktop\HomeTaskService1\HomeTaskService1\bin\Debug\HomeTaskService1.exe.config
+C:\Users\kosus\Desktop\HomeTaskService1\HomeTaskService1\bin\Debug\HomeTaskService1.exe
+C:\Users\kosus\Desktop\HomeTaskService1\HomeTaskService1\bin\Debug\HomeTaskService1.pdb
+C:\Users\kosus\Desktop\HomeTaskService1\HomeTaskService1\bin\Debug\WebDriver.dll
+C:\Users\kosus\Desktop\HomeTaskService1\HomeTaskService1\obj\Debug\HomeTaskService1.csproj.CopyComplete
+C:\Users\kosus\Desktop\HomeTaskService1\HomeTaskService1\obj\Debug\HomeTaskService1.exe
+C:\Users\kosus\Desktop\HomeTaskService1\HomeTaskService1\obj\Debug\HomeTaskService1.pdb

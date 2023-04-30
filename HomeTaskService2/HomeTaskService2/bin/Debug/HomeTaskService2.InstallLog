@@ -1,0 +1,34 @@
+﻿Выполняется установка сборки 'C:\Users\kosus\Desktop\HomeTaskService2\HomeTaskService2\bin\Debug\HomeTaskService2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\kosus\Desktop\HomeTaskService2\HomeTaskService2\bin\Debug\HomeTaskService2.exe
+   logfile = C:\Users\kosus\Desktop\HomeTaskService2\HomeTaskService2\bin\Debug\HomeTaskService2.InstallLog
+Устанавливается служба MyServiceProcess2...
+Создается исходный EventLog MyServiceProcess2 в журнале Application...
+Выполняется откат для сборки 'C:\Users\kosus\Desktop\HomeTaskService2\HomeTaskService2\bin\Debug\HomeTaskService2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\kosus\Desktop\HomeTaskService2\HomeTaskService2\bin\Debug\HomeTaskService2.exe
+   logfile = C:\Users\kosus\Desktop\HomeTaskService2\HomeTaskService2\bin\Debug\HomeTaskService2.InstallLog
+Восстанавливается исходное состояние журнала событий для источника MyServiceProcess2.
+Выполняется удаление сборки 'C:\Users\kosus\Desktop\HomeTaskService2\HomeTaskService2\bin\Debug\HomeTaskService2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\kosus\Desktop\HomeTaskService2\HomeTaskService2\bin\Debug\HomeTaskService2.exe
+   logfile = C:\Users\kosus\Desktop\HomeTaskService2\HomeTaskService2\bin\Debug\HomeTaskService2.InstallLog
+Выполняется удаление источника EventLog MyServiceProcess2.
+Выполняется удаление службы MyServiceProcess2 из системы...
+Служба MyServiceProcess2 успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\kosus\Desktop\HomeTaskService2\HomeTaskService2\bin\Debug\HomeTaskService2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\kosus\Desktop\HomeTaskService2\HomeTaskService2\bin\Debug\HomeTaskService2.exe
+   logfile = C:\Users\kosus\Desktop\HomeTaskService2\HomeTaskService2\bin\Debug\HomeTaskService2.InstallLog
+Устанавливается служба MyServiceProcess2...
+Служба MyServiceProcess2 успешно установлена.
+Создается исходный EventLog MyServiceProcess2 в журнале Application...
+Выполняется фиксация сборки 'C:\Users\kosus\Desktop\HomeTaskService2\HomeTaskService2\bin\Debug\HomeTaskService2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\kosus\Desktop\HomeTaskService2\HomeTaskService2\bin\Debug\HomeTaskService2.exe
+   logfile = C:\Users\kosus\Desktop\HomeTaskService2\HomeTaskService2\bin\Debug\HomeTaskService2.InstallLog
